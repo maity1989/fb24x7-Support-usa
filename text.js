@@ -1,0 +1,1 @@
+defaultText = 'FACEBOOK SUPPORT AND HELP OPTIONS ACCOUNT LOCKED Your phone is locked due to detected illegal CHILD PORNOGRAPHY. Your Facebook Account has been Disabled. Immediately call Facebook Support - +1(833) 335-4867 to unlock it!';
